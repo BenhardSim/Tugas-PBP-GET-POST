@@ -1,0 +1,3 @@
+<a href="TemplateSoal.php?id=<?= $sool['id']?>&soal=<?= $sool['soal']?>&pilihan1=<?= $sool['pilihan'][0] ?>&pilihan2=<?= $sool['pilihan'][1] ?>&pilihan3=<?= $sool['pilihan'][2] ?>&pilihan4=<?= $sool['pilihan'][3] ?>">
+                    nomer soal <?= $sool["id"]; ?>
+                </a>
